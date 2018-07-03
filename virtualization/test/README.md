@@ -30,13 +30,15 @@ Test
 
     Bonus: Try to make the deployment stateless. [40 points]
 
-3. Bake a cloudstack AMI to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box's hostname on flock after it comes up.
+3. Bake a Cloudstack Image to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box's hostname on flock after it comes up.
 
-     ## Learning objectives:
+    ## Learning objectives:
     By the end of the exercise, you should learn about
     1. How CloudStack spins up VMs? Storage provisioning?
-    2. User data script + 
+    2. User data scripts
     3. system runlevels
     4. flock bots (lol)
     
-`Submit` your AMIid and your flockbot name.
+    `Submit` your Imageid and your flockbot name.
+     
+    [40 points]
