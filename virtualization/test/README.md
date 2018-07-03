@@ -3,7 +3,7 @@ Test
 
 1. Create a memory hungry application (systemd-service), try to limit it's resources using cgroups and create a separate proc namespace to isolate processes. [10 points]
 
-     ## Learning objectives:
+    ### Learning objectives:
     By the end of the exercise, you should learn about
     1. Cgroups - resource limitation
     2. Namespaces - isolation of subsystems
@@ -19,7 +19,7 @@ Test
 
     `Submit` your Dockerfiles / docker-compose files and nextcloud deployment endpoints.
 
-    ## Learning objectives:
+    ### Learning objectives:
 
     By the end of the exercise, you should learn about
     1. Containerizing deployment and application parts - resource limiting, isolation, efficient usage
@@ -32,7 +32,7 @@ Test
 
 3. Bake a Cloudstack Image to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box's hostname on flock after it comes up.
 
-    ## Learning objectives:
+    ### Learning objectives:
     By the end of the exercise, you should learn about
     1. How CloudStack spins up VMs? Storage provisioning?
     2. User data scripts
