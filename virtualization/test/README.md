@@ -32,7 +32,14 @@ Test
 
     Bonus: Try to make the deployment stateless. [40 points]
 
-3. Bake a Cloudstack Image to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box's hostname on flock after it comes up.
+3.  Create two namespaces providing veth (Virtual Ethernet drivers) isolation, so that the two containers are able to ping each other.
+
+    ### Learning objectives:
+
+    By the end of the exercise, you should learn about
+    1. Container networking
+    
+4. Bake a Cloudstack Image to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box's hostname on flock after it comes up.
 
     ### Learning objectives:
     By the end of the exercise, you should learn about
