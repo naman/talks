@@ -9,6 +9,8 @@ Test
     2. Namespaces - isolation of subsystems
     3. Process trees, systemd
     
+    Do the same using docker containers. [10 points]
+    
 2. Nextcloud is an OpenSource private self-hosted storage solution akin to Dropbox. A Nextcloud deployment typically contains a web proxy, mysql, a php application, and the letsencrypt certbot for automated TLS certificate renewals. Deploy a Nextcloud instance using containers (You may use a Dockerfile or docker-compose, up to you). You may skip deploying the TLS certificate generator / renewal bot  (letsencrypt-nginx-proxy-companion) if you don't want to support TLS / HTTPS (EFF's certbot).
 
     `Hint 1`: Nextcloud is OpenSource.
