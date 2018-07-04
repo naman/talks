@@ -39,6 +39,8 @@ Test
     By the end of the exercise, you should learn about
     1. Container networking
     
+    [30 points]
+    
 4. Bake a Cloudstack Image to spin up a VMs(KVM) with attached volumes, each with a random hostname which shouts the box's hostname on flock after it comes up.
 
     ### Learning objectives:
