@@ -1,0 +1,1 @@
+The talk was conducted for the training session for the new DevOps hires. The talk content was a collaboration with @lionaneesh, kishan gupta. Please find the content here https://slides.com/aneeshdogra-1/security-101.
